@@ -1,0 +1,3 @@
+create  table tableName(Std_ID  int(10),
+                  Std_Name  char(20),
+                  subject    char(20)); 
